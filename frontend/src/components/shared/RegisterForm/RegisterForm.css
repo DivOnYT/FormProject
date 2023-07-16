@@ -1,4 +1,4 @@
-.Header {
+.RegisterForm {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -8,7 +8,7 @@
     height: 100px;
 }
 
-.Header-logo {
+.RegisterForm-logo {
     position: absolute;
     top: 30px;
     left: 20px;
